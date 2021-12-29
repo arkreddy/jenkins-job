@@ -1,4 +1,4 @@
 gitURL: https://github.com/ggnanasekaran77/configserver.git
 build:
   type: gradle
-  command: ./gradlew clean build
+  command: gradle clean build
