@@ -1,4 +1,4 @@
-buildType: gradle
-buildCommand: ./gradlew clean build
 gitURL: https://github.com/ggnanasekaran77/configserver.git
-
+build:
+  type: gradle
+  command: ./gradlew clean build
