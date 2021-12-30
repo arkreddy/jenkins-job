@@ -2,3 +2,4 @@ gitURL: https://github.com/ggnanasekaran77/configserver.git
 build:
   type: gradle
   command: gradle clean build -x test
+  image: gradle:7.3.3-jdk11
