@@ -1,4 +1,4 @@
-gitURL: https://github.com/ggnanasekaran77/configserver.git
+gitURL: https://github.com/arkreddy/configserver.git
 build:
   type: maven
   command: gradle clean build -x test
